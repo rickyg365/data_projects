@@ -1,0 +1,67 @@
+[ Overview ]:
+
+   Rank  ...                                              staff
+0     1  ...  Koyoharu Gotouge : Original Creator, Haruo Sot...
+1     2  ...  Natsuki Takaya : Original Creator, Yoshihide I...
+2     3  ...  Mo Xiang Tong Xiu : Original Creator, Xiong Ke...
+3     4  ...  Hiromu Arakawa : Original Creator, Yasuhiro Ir...
+4     5  ...  Hajime Isayama : Original Creator, Tetsurou Ar...
+
+[5 rows x 17 columns]
+
+
+[ Statistics ]:
+
+              Rank     Episodes        Rating  Release_year     End_year
+count  18495.00000  9501.000000  15364.000000  18112.000000  2854.000000
+mean    9248.00000    20.920850      3.355133   2006.520318  2004.256132
+std     5339.19095    37.990858      0.400624     15.189537    13.257484
+min        1.00000     1.000000      0.960000   1907.000000  1962.000000
+25%     4624.50000     2.000000      3.130000   2001.000000  1996.000000
+50%     9248.00000    12.000000      3.360000   2012.000000  2007.000000
+75%    13871.50000    26.000000      3.590000   2017.000000  2015.000000
+max    18495.00000   800.000000      4.600000   2023.000000  2022.000000
+
+
+[ First Row ]:
+
+Rank                                                               1
+Name               Demon Slayer: Kimetsu no Yaiba - Entertainment...
+Japanese_name                          Kimetsu no Yaiba: Yuukaku-hen
+Type                                                           TV   
+Episodes                                                         NaN
+Studio                                                      ufotable
+Release_season                                                 Fall 
+Tags               Action, Adventure, Fantasy, Shounen, Demons, H...
+Rating                                                           4.6
+Release_year                                                  2021.0
+End_year                                                         NaN
+Description        'Tanjiro and his friends accompany the Hashira...
+Content_Warning                                    Explicit Violence
+Related_Mange                         Demon Slayer: Kimetsu no Yaiba
+Related_anime      Demon Slayer: Kimetsu no Yaiba, Demon Slayer: ...
+Voice_actors       Inosuke Hashibira : Yoshitsugu Matsuoka, Nezuk...
+staff              Koyoharu Gotouge : Original Creator, Haruo Sot...
+Name: 0, dtype: object
+
+
+[ Columns ]:
+
+ => Rank
+ => Name
+ => Japanese_name
+ => Type
+ => Episodes
+ => Studio
+ => Release_season
+ => Tags
+ => Rating
+ => Release_year
+ => End_year
+ => Description
+ => Content_Warning
+ => Related_Mange
+ => Related_anime
+ => Voice_actors
+ => staff
+
