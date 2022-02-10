@@ -1,2 +1,2 @@
-# data_projects
+# Data Projects
 A place for all my data projects
